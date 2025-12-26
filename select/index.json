@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "WISH",
+  "base_artist": "DreamNote",
+  "createdAt": "2025-12-26T02:01:57.169289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Are the Good Times Really Over (I Wish a Buck Was Still Silver) - Single Version",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/01_Are_the_Good_Times_Really_Over_(I_Wish_a_Buck_Was_Still_Silver)_-_Single_Version_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Are The Good Times Really Over (I Wish A Buck Was Still Silver) (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/02_Are_The_Good_Times_Really_Over_(I_Wish_A_Buck_Was_Still_Silver)_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be Careful What You Wish For",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/03_Be_Careful_What_You_Wish_For_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Just Wish You Were Someone I Love",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/04_I_Just_Wish_You_Were_Someone_I_Love_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wish Grandpas Never Died",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/05_I_Wish_Grandpas_Never_Died_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wish You Could Have Turned My Head (And Left My Heart Alone)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/06_I_Wish_You_Could_Have_Turned_My_Head_(And_Left_My_Heart_Alone)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Wish You Could Have Turned My Head (And Left My Heart Alone)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/07_I_Wish_You_Could_Have_Turned_My_Head_(And_Left_My_Heart_Alone)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Wish You Were Beer",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/08_I_Wish_You_Were_Beer_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Make a Wish",
+      "artist": "Nick O'Brien",
+      "has_synced": true,
+      "path": "select/09_Make_a_Wish_Nick_O'Brien.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Wish",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/10_My_Wish_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Used To Wish I Was",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/11_Used_To_Wish_I_Was_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wish I Didn't Know Now",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/12_Wish_I_Didn't_Know_Now_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wish I Didn't Know Now (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/13_Wish_I_Didn't_Know_Now_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wish You Well",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/14_Wish_You_Well_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wish You Were Here",
+      "artist": "Mark Wills",
+      "has_synced": true,
+      "path": "select/15_Wish_You_Were_Here_Mark_Wills.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wish You Were Here (Album Version)",
+      "artist": "Mark Wills",
+      "has_synced": true,
+      "path": "select/16_Wish_You_Were_Here_(Album_Version)_Mark_Wills.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WISH",
+      "artist": "DreamNote",
+      "has_synced": false,
+      "path": "select/pl_01_WISH_DreamNote.txt"
+    }
+  ]
+}
